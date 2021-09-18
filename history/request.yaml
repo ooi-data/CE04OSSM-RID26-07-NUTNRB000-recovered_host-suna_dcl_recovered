@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE04OSSM-RID26-07-NUTNRB000-recovered_host-suna_dcl_recovered
-last_request: '2021-08-01T01:23:21.354589Z'
+last_request: '2021-09-18T00:11:09.862545Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSSM-RID26-07-NUTNRB000-recovered_host-suna_dcl_recovered/main/history/response.json
-status: failed
+status: pending
